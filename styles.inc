@@ -1,6 +1,6 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"classic"=>"Estilo Clásico",
+"classic"=>"Estilo ClÃ¡sico",
 "default"=>"Estilo por defecto",
 "demo1"=>"Un estilo demostrativo",
