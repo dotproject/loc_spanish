@@ -1,6 +1,6 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"classic"=>"Clásico",
+"classic"=>"ClÃ¡sico",
 "default"=>"Por Defecto",
 "demo1"=>"Demostrativo",
