@@ -171,6 +171,7 @@
 "normal"=>"normal",
 "notifyChange"=>"Notificar asignaciones por E-Mail",
 "overAlloc"=>"El porcentaje de asignación que seleccionó sobrepasa la capacidad libre del usuario.",
+"save & new task"=>"guardar & crear tarea",
 "see gantt chart"=>"ver carta gantt",
 "set priority to high"=>"establecer prioridad alta",
 "set priority to low"=>"establecer prioridad baja",
