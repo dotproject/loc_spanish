@@ -27,4 +27,5 @@
 "inserted"=>"agregado",
 "new company"=>"nueva empresa",
 "new contact"=>"nuevo contacto",
+"new project"=>"nuevo proyecto",
 "view this company"=>"ver esta empresa",

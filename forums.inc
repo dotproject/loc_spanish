@@ -33,6 +33,7 @@
 "Post Reply"=>"Publicar Respuesta",
 "Related Project"=>"Proyecto Relacionado",
 "Replies"=>"Respuestas",
+"Sort By Date"=>"Ordenar por fecha",
 "Started"=>"Iniciado",
 "Subject"=>"Título",
 "Topics"=>"Tópicos",
@@ -72,3 +73,4 @@
 "this topic"=>"este tópico",
 "topics for this forum"=>"tópicos de este foro",
 "update watches"=>"actualizar vistas",
+"view PDF file"=>"ver archivo PDF",

@@ -54,7 +54,7 @@
 "Return to ticket list"=>"Regresar a la lista de tickets",
 "Search"=>"Buscar",
 "Search Tickets"=>"Buscar Tickets",
-"Showstopper"=>"",
+"Showstopper"=>"Emergencia extrema",
 "Sort By"=>"Ordenar Por",
 "Staff Comment"=>"Comentario del Personal",
 "Status"=>"Estado",
