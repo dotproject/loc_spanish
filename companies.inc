@@ -2,7 +2,9 @@
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
 "Add Company"=>"Agregar Empresa",
+"All Companies"=>"Todas",
 "Budget"=>"Presupuesto",
+"Clients"=>"Clientes",
 "Company Name"=>"Nombre de la Empresa",
 "Company Owner"=>"Dueño de la Empresa",
 "Company deleted"=>"Empresa eliminada",
@@ -12,6 +14,7 @@
 "Invalid Company ID"=>"ID de Empresa Inválido",
 "Started"=>"Comenzó",
 "Status"=>"Estado",
+"Suppliers"=>"Proveedores",
 "View Company"=>"Ver Empresa",
 "View Company/Client"=>"Ver Empresa/Cliente",
 "cdepartment::store-check failed"=>"departamento::verificación de almacenamiento fallida",
