@@ -86,6 +86,7 @@
 "Proj."=>"Proyecto",
 "Project Hours"=>"Horas del proyecto",
 "Project Tasks"=>"Tareas",
+"Projects on Hold"=>"Proyectos congelados",
 "Reset"=>"Reiniciar",
 "Resources"=>"Recursos",
 "Select contacts"=>"Seleccionar contactos",
