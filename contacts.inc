@@ -21,6 +21,8 @@
 "contactsValidName"=>"Por favor, ingrese un nombre de contacto válido",
 "delete contact"=>"eliminar contacto",
 "new contact"=>"nuevo contacto",
+"select company..."=>"seleccionar compañía...",
+"select department..."=>"seleccionar departamento...",
 "use in display"=>"mostrar",
 "vCard(s) imported"=>"vCard(s) importada(s)",
 "vCardFileUploadError"=>"Se presentaron problemas subiendo el archivo vCard",

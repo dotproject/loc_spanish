@@ -3,6 +3,8 @@
 ##
 "Access Denied"=>"Acceso Denegado",
 "Color Selector"=>"Selector de Color",
+"Contacts for"=>"Contactos de",
+"Continue"=>"Continuar",
 "Preset"=>"Predefinido",
 "accessDeniedMsg"=>"<p>Ha tratado de acceder a un item sin los permisos necesarios.</p><p>Por favor contacte al Administrador del Sistema.</p>",
 "colorLegend"=>"Seleccione un color para identificar su selección y cierre este panel.",
