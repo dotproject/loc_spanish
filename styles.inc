@@ -4,3 +4,4 @@
 "classic"=>"Clásico",
 "default"=>"Por Defecto",
 "demo1"=>"Demostrativo",
+"dp-grey-theme"=>"Línea delgada de grises",

@@ -3,7 +3,7 @@
 ##
 "% of work done (based on duration)"=>"% de trabajo hecho (basado en la duración)",
 "Active"=>"Activo",
-"Actual"=>"",
+"Actual"=>"Actual",
 "Actual Budget"=>"Presupuesto Actual",
 "Actual End"=>"Fin actual",
 "Actual End Date"=>"Fecha de Término Actual",
@@ -19,7 +19,7 @@
 "Cancelled"=>"Cancelado",
 "Category"=>"Categoría",
 "Checkout Reason"=>"Razón de salida",
-"Color"=>"",
+"Color"=>"Color",
 "Color Identifier"=>"Color",
 "Comments"=>"Comentarios",
 "Completed Projects"=>"Proyectos Completados",
