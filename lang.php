@@ -4,6 +4,6 @@
 // support.  See the English version for details of its format.
 $dir = basename(dirname(__FILE__));
 
-$LANGUAGES['es_SP'] = array( $dir, 'Spanish', 'EspaÃ±ol', 'esp');
-$LANGUAGES['es_MX'] = array( $dir, 'Spanish (MX)', 'EspaÃ±ol (MX)', 'esm');
+$LANGUAGES['es_SP'] = array( $dir, 'Spanish', 'Español', 'esp');
+$LANGUAGES['es_MX'] = array( $dir, 'Spanish (MX)', 'Español (MX)', 'esm');
 ?>
