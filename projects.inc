@@ -35,6 +35,7 @@
 "Make PDF"=>"Crear PDF",
 "Manage Project"=>"Administrar Proyecto",
 "Messages"=>"Mensajes",
+"Milestone"=>"Hito",
 "New Project"=>"Nuevo Proyecto",
 "No projects available"=>"No existen proyectos disponibles",
 "No tasks to display"=>"No hay tareas que desplegar",

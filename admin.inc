@@ -56,7 +56,7 @@
 "adminValidPassword"=>"Por favor, ingrese una contraseña válida(mayor a 4 caracteres).",
 "adminValidUserName"=>"Por favor, ingrese un nombre de usuario valido.",
 "already exists. Try another username."=>"ya existe. Intente con otro nombre de usuario.",
-"change password"=>"cambiar clave",
+"change password"=>"cambiar contraseña",
 "companies list"=>"lista de compañías",
 "deny"=>"denegado",
 "edit preferences"=>"editar preferencias",
