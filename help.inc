@@ -16,3 +16,4 @@
 "Top Menu"=>"Menú Superior",
 "accessDeniedMsg"=>"<p>Ud. ha tratado de acceder a un item del sistema sin los permisos suficientes.</p><p>Por favor contacte al administrador del sistema.</p>",
 "helpIntro"=>"Aquí existen algunos links a tópicos en el archivo de ayuda que no son directamente accesibles desde la ayuda de contexto.",
+"index"=>"índice",

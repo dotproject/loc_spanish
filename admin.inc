@@ -41,6 +41,7 @@
 "User inserted"=>"Usuario agregado",
 "User updated"=>"Usuario actualizado",
 "View User"=>"Ver Usuario",
+"add user"=>"agregar usuario",
 "adminInvalidBirthday"=>"Por favor, ingrese una fecha de nacimiento válida: (DD-MM-YYYY) o deje en blanco",
 "adminInvalidDay"=>"El día ingresado es inválido",
 "adminInvalidEmail"=>"El correo ingresado es inválido",

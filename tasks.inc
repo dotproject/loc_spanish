@@ -2,6 +2,7 @@
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
 "Action"=>"Acción",
+"Add Log"=>"Agregar historial",
 "Add Task"=>"Agregar Tarea",
 "All Tasks"=>"Todas las Tareas",
 "All Tasks for my Company"=>"Todas las Tareas de mi Empresa",
@@ -99,7 +100,7 @@
 "tasksPercent"=>"El procentaje de avance debe ser un número entero.",
 "tasksPercentValue"=>"El procentaje de avance debe estar comprendido entre 0 y 100",
 "update"=>"actualizar",
-"update selected tasks priority"=>"",
+"update selected tasks priority"=>"actualizar prioridad de las tareas seleccionadas",
 "update task"=>"actualizar tarea",
 "view this project"=>"ver proyecto",
 "view this task"=>"ver tarea",

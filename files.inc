@@ -1,6 +1,8 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"Add File"=>"Agregar Archivo",
+"All Projects"=>"Todos los Proyectos",
 "Date"=>"Fecha",
 "Edit File"=>"Editar Archivo",
 "File Management"=>"Administración de Archivos",
@@ -20,3 +22,5 @@
 "fileIdError"=>"Se ha pasado un controlador de archivos incorrectos a esta función",
 "files list"=>"listado de archivos",
 "filesDelete"=>"¿Está seguro de querer eliminar este archivo?",
+"new file"=>"nuevo archivo",
+"select task"=>"seleccionar tarea",
