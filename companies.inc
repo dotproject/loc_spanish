@@ -12,6 +12,7 @@
 "Company updated"=>"Empresa actualizada",
 "Edit Company"=>"Editar Empresa",
 "Invalid Company ID"=>"ID de Empresa Inválido",
+"No companies available"=>"No existen compañías disponibles",
 "Started"=>"Iniciado",
 "Status"=>"Estado",
 "Suppliers"=>"Proveedores",
@@ -26,4 +27,5 @@
 "delete company"=>"eliminar empresa",
 "edit this company"=>"editar empresa",
 "new company"=>"nueva empresa",
+"new contact"=>"agregar contacto",
 "view this company"=>"ver esta empresa",
