@@ -2,7 +2,7 @@
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
 "Add Company"=>"Agregar Empresa",
-"All Companies"=>"Todas",
+"All Companies"=>"Todas las Compañías",
 "Budget"=>"Presupuesto",
 "Clients"=>"Clientes",
 "Company Name"=>"Nombre de la Empresa",
@@ -12,7 +12,7 @@
 "Company updated"=>"Empresa actualizada",
 "Edit Company"=>"Editar Empresa",
 "Invalid Company ID"=>"ID de Empresa Inválido",
-"Started"=>"Comenzó",
+"Started"=>"Iniciado",
 "Status"=>"Estado",
 "Suppliers"=>"Proveedores",
 "View Company"=>"Ver Empresa",
@@ -20,7 +20,7 @@
 "cdepartment::store-check failed"=>"departamento::verificación de almacenamiento fallida",
 "companies list"=>"listado de empresas",
 "company list"=>"listado de empresas",
-"companyDelete"=>"¿Está seguro de querer eliminar esta empresa?",
+"companyDelete"=>"Está seguro de querer eliminar esta empresa?",
 "companyValidName"=>"Por favor, ingrese un nombre de empresa válido",
 "companyWelcome"=>"<strong>Bienvenido %s.</strong> Esta página despliega un listado de los clientes actuales y sus proyectos activos.",
 "delete company"=>"eliminar empresa",
